@@ -12,6 +12,7 @@ Electricity consumption data across Indian states is publicly available but scat
 |---|---|
 | **GitHub Repository** | [github.com/chvedasri/ElectricityConsumption](https://github.com/chvedasri/ElectricityConsumption/tree/main) |
 | **Dataset** | [Google Drive link](https://drive.google.com/file/d/1JxIkHNwXxjFztKq7ad0_KtkukCqTckNy/view) |
+| **Live Tableau Dashboard** | [public.tableau.com/.../SmartBridge](https://public.tableau.com/app/profile/veda.chaluvadi5860/viz/SmartBridge_17851602040230/) |
 
 ---
 
