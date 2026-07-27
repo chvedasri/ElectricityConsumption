@@ -10,7 +10,7 @@ Electricity consumption data across Indian states is publicly available but scat
 
 | Resource | Link |
 |---|---|
-| **GitHub Repository** | [github.com/chvedasri/Electricity_Consumption_Analysis](https://github.com/chvedasri/Electricity_Consumption_Analysis) |
+| **GitHub Repository** | [github.com/chvedasri/ElectricityConsumption](https://github.com/chvedasri/ElectricityConsumption/tree/main) |
 | **Dataset** | [Google Drive link](https://drive.google.com/file/d/1JxIkHNwXxjFztKq7ad0_KtkukCqTckNy/view) |
 
 ---
