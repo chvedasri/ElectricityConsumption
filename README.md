@@ -1,5 +1,3 @@
-# ElectricityConsumption
-
 # Electricity Consumption Analysis in India
 
 **Interactive Tableau and Flask web application analyzing state-wise electricity consumption across India (2019–2020) — built for state discom planners, policy analysts, and researchers to uncover regional trends and understand the impact of 2020's disruptions on power demand.**
